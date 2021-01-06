@@ -70,7 +70,7 @@ input, textarea, select {
 }
 body {
   background-color: #f70201;
-  color: white;
+  color: blue;
   font-family: "Jost";
   line-height: 1.5;
   font-size: 24px;
@@ -95,3 +95,7 @@ section p {
 }
 
 /*# sourceMappingURL=app.css.map */
+=======
+    background-color: #f70201;
+    color: white;
+}
